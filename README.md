@@ -13,7 +13,7 @@
 * Contoh template untuk laravel, vue
 * Template-template HTML untuk styling
 
-## Senarai familiariar dengan language & framework
+## Senarai familiariar dengan language 
 
 * Python - tidak aktif
 * Rust - tidak aktif
@@ -23,19 +23,10 @@
 * PHP - aktif
 * Javascript - aktif
 
-## Senarai familiariar dengan framework
-
-* Laravel - aktif
-* Vue - aktif
-* Django
-* Flask
-* Angular
-* Ionic
-
 ## Senarai permasalahan
 
 * Senarai am
-* Laravel & PHP
+* [Laravel & PHP](laravel/index.md)
 * Vue & Javascript
 
 ## Senarai konsep & diagram
