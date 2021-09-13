@@ -2,6 +2,7 @@
 
 ## List of all the things to know
 
+* [Basic PHP Language](php.md)
 * Creation of project
 * Model
 * Controller
@@ -14,3 +15,6 @@
 ## List of common problems
 
 * Structure ERD
+* Integration
+* Create & manipulate PDF
+* Create & manipulate Image(JPG/PNG)
